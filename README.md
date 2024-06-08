@@ -6,3 +6,8 @@ Healthstack is an e-commerce platform involves 2 users( Seller and Consumer ). I
 Libraries and Frameworks: React.js, Node.js, Express.js
 <br>
 Databases: MongoDB, Redis, Firebase
+<br>
+<br>
+To see deployment click the link below.
+<br>
+[https://rapoluprashanth.github.io/Sorting-Visualizer/](https://rapoluprashanth.github.io/Sorting-Visualizer/)
