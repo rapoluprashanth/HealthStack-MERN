@@ -9,5 +9,5 @@ Databases: MongoDB, Redis, Firebase
 <br>
 To see deployment click the link below.
 <br>
-<a href="https://rapoluprashanth.github.io/Sorting-Visualizer/">https://rapoluprashanth.github.io/Sorting-Visualizer/</a>
+<a href="https://health-stack-mern-client.vercel.app/">https://health-stack-mern-client.vercel.app/</a>
 
