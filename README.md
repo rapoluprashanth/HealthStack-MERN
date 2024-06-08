@@ -9,5 +9,5 @@ Databases: MongoDB, Redis, Firebase
 <br>
 To see deployment click the link below.
 <br>
-[https://rapoluprashanth.github.io/Sorting-Visualizer/](https://rapoluprashanth.github.io/Sorting-Visualizer/)
+<a href="https://rapoluprashanth.github.io/Sorting-Visualizer/">https://rapoluprashanth.github.io/Sorting-Visualizer/</a>
 
